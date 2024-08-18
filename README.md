@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhijeeth0010
-- 👀 I’m interested in Cloud and Information Technoogy!
-- 🌱 I’m currently studying B.E in IT
+- 👀 I’m excited about Information Technoogies!
+- 🌱 I’m currently studying B.E in IT.
 - 📫 How to reach me https://www.linkedin.com/in/abhijeethtambe/ 
 
 
