@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhijeeth0010
-- 👀 I’m excited about Information Technoogies!
+- 👀 I’m excited about Information Technologies!
 - 🌱 I’m currently studying B.E in IT.
 - 📫 How to reach me https://www.linkedin.com/in/abhijeethtambe/ 
 
