@@ -1,56 +1,68 @@
-# 👋 Hi there, I’m Abhijeeth Tambe
+# 👋 Hi, I’m Abhijeeth Tambe  
 
-- 🔭 B.E Graduate (Information Technology)  
-- 🌱 Passionate about *Cloud Engineering* & *Software Engineering*  
-- 👀 Always exploring how tech can help make accessibility better  
-- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/abhijeethtambe/)  
+🎓 IT graduate | 💻 Full Stack Developer Trainee @ Kodnest | ☁️ Cloud & Security Enthusiast  
 
----
-
-## 🛠 Skills & Tech Stack
-
-Here are some of the tools & technologies I work with or am learning:
-
-- **Languages & Frameworks:** Python, Java, JavaScript, CNNs (for image recognition), maybe Java-based testing tools  
-- **Domains:** Machine Learning / Deep Learning, Gesture Recognition, Automation Testing, Accessibility, Software Development 
-- **Tools & Others:** Git, Jupyter Notebooks,  IDEs like IntelliJ, VSCode, Eclipse whatever is needed for cloud or security tasks  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijeeth%20Tambe-blue)](https://www.linkedin.com/in/abhijeethtambe/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Abhijeeth0010-black)](https://github.com/Abhijeeth0010)  
 
 ---
 
-## 🚀 Notable Projects
+## 🧑‍💼 Career Profile  
 
-Here are some of my public repositories I’m especially proud of:
+I’m an **IT graduate** with hands-on experience building **Python** and **Java-based web applications**.  
+Currently upskilling through a **Full Stack Development program at Kodnest**, where I’m learning both frontend and backend technologies.  
 
-| Project | Description |
-|---|---|
-| **Indian-Sign-language-gesture-recognition-using-CNN** | A system to recognise Indian Sign Language gestures using Convolutional Neural Networks. Great hands-on work in image data, model training, etc. :contentReference[oaicite:0]{index=0} |
-| **Automation-testing_mini_project** | Some automation testing work in Java. Helps demonstrate QA/testing skills. :contentReference[oaicite:1]{index=1} |
-| **COMMUNICATION-ACCESSIBILITY-TOOL-FOR-DEAF-AND-DUMB-PEOPLE** | A tool aimed at improving communication & accessibility — something I care about. :contentReference[oaicite:2]{index=2} |
-
----
-
-## 📈 GitHub Highlights
-
-- 🔁 Repositories: 5 public  
-- 🌟 Stars: 14  
-- 📚 Always trying to learn newer tools & frameworks in cloud, security, ML, etc. :contentReference[oaicite:3]{index=3}
+- ✅ Built **2+ real-world projects** with 90%+ accuracy  
+- 🚀 Interested in **software engineering** and **cloud engineering** roles  
+- 🌱 Passionate about **accessible technology** & **AI-driven applications**  
 
 ---
 
-## 🎯 What I’m Looking to Do
+## 🛠️ Technical Skills  
 
-- Collaborate on open source projects focused on **accessibility**, **gesture recognition**, or **secure cloud deployment**  
-- Internships / roles in **cloud engineering**, **cybersecurity** or **ML / AI**  
-- Share & build knowledge with others — blogs, tutorials, etc.
-
----
-
-## 📫 Connect with Me
-
-- LinkedIn: [abhijeethtambe](https://www.linkedin.com/in/abhijeethtambe/)  
-- Email: *[you can put your email here if comfortable]*  
+- **Languages:** Python, Java, HTML/CSS, JavaScript, SQL  
+- **Frameworks & Tools:** Django, Hibernate, Servlets, VS Code, Eclipse, GitHub  
+- **Cloud:** IBM Cloud, Docker, IAM, Cloud Security Fundamentals  
 
 ---
 
-Thanks for dropping by! 😊
+## 📜 Certifications  
 
+- **Full Stack Development Trainee** – Kodnest (2025)  
+- **Full Stack Development Internship** – SVARKS (Python Django) (2023)  
+- **IBM Cloud Computing Fundamentals** – Core cloud concepts, orchestration, virtualization, IAM, cloud security  
+
+---
+
+## 🚀 Projects  
+
+- **Communication Accessibility Tool for Deaf and Dumb People** (2025)  
+  - Web app that converts speech/text input into Indian Sign Language gestures  
+  - Built with speech recognition, CNN-based gesture mapping, and role-based interface  
+
+- **Indian Sign Language Recognition Using CNN** (2024)  
+  - Achieved **93.66% accuracy** on ISL dataset with Python + Keras  
+  - Worked on preprocessing, model tuning, and testing  
+
+- **Online Examination System** (2022)  
+  - Designed features for **exam creation, scheduling, and results tracking**  
+  - Built using **HTML, CSS, MySQL, Apache Server, and Java**  
+
+---
+
+## 🎯 Achievements & Activities  
+
+- Participated in **CODEFIESTA-4.0** (24-hour national hackathon, 2024)  
+- Won multiple competitions demonstrating **teamwork & communication skills**  
+- Actively involved in college events (skits, fests, technical activities)  
+
+---
+
+## 📈 GitHub Stats  
+
+![Abhijeeth’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijeeth0010&theme=default&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeeth0010&layout=compact)  
+
+---
+
+✨ Thanks for visiting my profile! Feel free to connect and collaborate. 🚀  
