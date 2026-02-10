@@ -20,8 +20,8 @@ Currently upskilling through a **Full Stack Development program at Kodnest**, wh
 
 ## 🛠️ Technical Skills  
 
-- **Languages:** Python, Java, HTML/CSS, JavaScript, SQL  
-- **Frameworks & Tools:** Django, VS Code, Eclipse, GitHub  
+- **Languages:** Java, HTML/CSS, Java, JavaScript, MySQL  
+- **Frameworks & Tools:** VS Code, Eclipse, GitHub  
 
 ---
 
