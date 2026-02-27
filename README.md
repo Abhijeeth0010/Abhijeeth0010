@@ -64,4 +64,4 @@ Currently upskilling through a **Full Stack Development program at Kodnest**, wh
 
 ---
 
-✨ Thanks for visiting my profile! Feel free to connect and collaborate. 🚀  
+✨  Thanks for visiting my profile! Feel free to connect and collaborate.  🚀  
