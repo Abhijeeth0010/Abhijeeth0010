@@ -1,67 +1,150 @@
-# 👋 Hi, I’m Abhijeeth Tambe  
+# 👋 Hi, I’m Abhijeeth Madhav Tambe
 
-🎓 IT graduate | 💻 Full Stack Developer Trainee @ Kodnest | ☁️ Cloud & Security Enthusiast  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijeeth%20Tambe-blue)](https://www.linkedin.com/in/abhijeethtambe/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Abhijeeth0010-black)](https://github.com/Abhijeeth0010)  
-
----
-
-## 🧑‍💼 Career Profile  
-
-I’m an **IT graduate** with hands-on experience building **Python** and **Java-based web applications**.  
-Currently upskilling through a **Full Stack Development program at Kodnest**, where I’m learning both frontend and backend technologies.  
-
-- ✅ Built **2+ real-world projects** with 90%+ accuracy  
-- 🚀 Interested in **software engineering** and **cloud engineering** roles  
-- 🌱 Passionate about **accessible technology** & **AI-driven applications**  
+🎓 Information Science Graduate (CGPA: 8.2)  
+💻 Full Stack Developer | Backend Focused | Cloud Enthusiast  
+📍 BTM Layout, Bangalore, India  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🚀 About Me
 
-- **Languages:** Java, HTML/CSS, Java, JavaScript, MySQL  
-- **Frameworks & Tools:** VS Code, Eclipse, GitHub  
+I’m a motivated Information Science graduate with strong foundations in **Java, Spring Boot, Hibernate, React, and MySQL**.
 
----
+I focus on:
+- Clean and maintainable backend development
+- RESTful API design
+- Optimized logic and structured architecture
+- Building responsive and accessible applications
 
-## 📜 Certifications  
+I enjoy working on real-world problem solving projects, especially in backend systems, cloud-based applications, and AI-driven accessibility tools.
 
-- **Full Stack Development Trainee** – Kodnest (2025)  
-- **Full Stack Development Internship** – SVARKS (Python Django) (2023)  
-- **IBM Cloud Computing Fundamentals** – Core cloud concepts, orchestration, virtualization, IAM, cloud security  
-
----
-
-## 🚀 Projects  
-
-- **Communication Accessibility Tool for Deaf and Dumb People** (2025)  
-  - Web app that converts speech/text input into Indian Sign Language gestures  
-  - Built with speech recognition, CNN-based gesture mapping, and role-based interface  
-
-- **Indian Sign Language Recognition Using CNN** (2024)  
-  - Achieved **93.66% accuracy** on ISL dataset with Python + Keras  
-  - Worked on preprocessing, model tuning, and testing  
-
-- **Online Examination System** (2022)  
-  - Designed features for **exam creation, scheduling, and results tracking**  
-  - Built using **HTML, CSS, MySQL, Apache Server, and Java**  
+Currently seeking **Full Stack / Backend / Cloud-focused roles** where I can contribute and grow as a software engineer.
 
 ---
 
-## 🎯 Achievements & Activities  
+## 🛠 Technical Skills
 
-- Participated in **CODEFIESTA-4.0** (24-hour national hackathon, 2024)  
-- Won multiple competitions demonstrating **teamwork & communication skills**  
-- Actively involved in college events (skits, fests, technical activities)  
+### 👨‍💻 Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- React.js
+
+### ⚙ Backend
+- Java
+- Spring Boot
+- Hibernate (JPA)
+- REST APIs
+
+### 🗄 Databases
+- MySQL
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- Maven
+- Postman
+- VS Code
+- Eclipse IDE
 
 ---
 
-## 📈 GitHub Stats  
+## 📌 Featured Projects
 
-![Abhijeeth’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijeeth0010&theme=default&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeeth0010&layout=compact)  
+### 🧠 Indian Sign Language Recognition Using CNN
+**Tech:** Python, TensorFlow, Keras  
+- Developed a deep learning image classification model  
+- Achieved **93.66% accuracy**  
+- Implemented preprocessing, training, evaluation, and optimization  
+- Focused on accessibility-driven AI solution  
+
+🔗 Repository:  
+https://github.com/Abhijeeth0010/Indian-Sign-language-gesture-recognition-using-CNN  
 
 ---
 
-✨  Thanks for visiting my profile! Feel free to connect and collaborate.  🚀  
+### 🏥 Home Nursing Management System (In Progress)
+**Tech:** Java, Spring Boot, REST APIs, MySQL  
+- Backend system to manage users and nursing services  
+- Implemented authentication (registration & login)  
+- Designed RESTful APIs with clean architecture  
+- Ongoing feature development  
+
+---
+
+### 🎓 Online Examination System
+**Tech:** Java, MySQL, Apache, HTML, CSS  
+- Designed features for:
+  - Test creation (MCQ, True/False, Short Answer)
+  - Exam scheduling
+  - Result tracking  
+- Focused on structured backend logic and database integration  
+
+---
+
+### 📚 Hibernate & JDBC Practice Projects
+
+You’ll also find multiple backend-focused repositories demonstrating:
+
+- ✔ CRUD operations using Hibernate
+- ✔ One-to-One entity mapping
+- ✔ Student management systems
+- ✔ JDBC-based database connectivity
+- ✔ Custom Filters in Spring Boot
+- ✔ API-based Currency Calculator application
+
+These projects strengthen my understanding of:
+- ORM concepts
+- Database lifecycle management
+- Transaction handling
+- Core backend fundamentals
+
+---
+
+## 💼 Professional Experience
+
+### ☁ Cloud Application Developer Intern  
+**Rooman Technologies Pvt. Ltd**
+
+- Built small cloud-based applications  
+- Assisted in feature development and improvements  
+- Collaborated with team members to improve workflows and structure  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering** – Information Science (2022–2025)  
+Smt. Kamala & Sri Venkappa M. Agadi College of Engineering & Technology  
+CGPA: 8.2  
+
+**Diploma in Computer Science** (2019–2022)  
+SGES Rural Polytechnic, Hubli  
+
+---
+
+## 📜 Certifications
+
+- Kodnest – Full Stack Development Trainee  
+- IBM – Cloud Computing Fundamentals  
+- SVARKS – Full Stack Development (Python Django)  
+
+---
+
+## 🌱 Current Focus
+
+- Advanced Spring Boot & backend architecture
+- API design best practices
+- Cloud fundamentals & deployment
+- Improving DSA and problem-solving skills
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: abhijeethtambe@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/abhijeethtambe  
+💻 GitHub: https://github.com/Abhijeeth0010  
+
+---
+
+⭐ Thank you for visiting my profile!
