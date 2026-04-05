@@ -110,17 +110,6 @@ These projects strengthen my understanding of:
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Engineering** – Information Science (2022–2025)  
-Smt. Kamala & Sri Venkappa M. Agadi College of Engineering & Technology  
-CGPA: 8.2  
-
-**Diploma in Computer Science** (2019–2022)  
-SGES Rural Polytechnic, Hubli  
-
----
-
 ## 📜 Certifications
 
 - Kodnest – Full Stack Development Trainee  
