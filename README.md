@@ -2,7 +2,6 @@
 
 🎓 Information Science Graduate (CGPA: 8.2)  
 💻 Full Stack Developer | Backend Focused | Cloud Enthusiast  
-📍 BTM Layout, Bangalore, India  
 
 ---
 
